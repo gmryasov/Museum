@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://cool-kids-project.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">279510635457</string>
+    <string name="google_api_key" translatable="false">AIzaSyBezPU5Q9BLJhL7M4i8yJf5m6wDgxFotjc</string>
+    <string name="google_app_id" translatable="false">1:279510635457:android:e4be306d031ee353</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBezPU5Q9BLJhL7M4i8yJf5m6wDgxFotjc</string>
+    <string name="google_storage_bucket" translatable="false">cool-kids-project.appspot.com</string>
+    <string name="project_id" translatable="false">cool-kids-project</string>
+</resources>
